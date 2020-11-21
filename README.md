@@ -1,4 +1,4 @@
-# Gaming Console Store
+# Gaming Console Shop
 This is an app concept for selling the new gaming console generation.
 
 I saw a beatiful app design in Dribbble, made by <b>Shashank Kaushik</b>, so i decided to built it in Flutter.
