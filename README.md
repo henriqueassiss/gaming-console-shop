@@ -9,18 +9,18 @@ Here is the design reference -> https://dribbble.com/shots/14588621-Gaming-Conso
 
 <h2>Demo Video</h2>
 
-![App Video Demo](demo/app_video.gif)
+![App Video Demo](demo/app_video.gif | width = 250)
 
 <h2>Some Pictures</h2>
 
 <h3>Xbox</h3>
 
-![Xbox Console Carousel](demo/xbox_carousel.jpg)
+![Xbox Console Carousel](demo/xbox_carousel.jpg | width = 250)
 
-![Xbox Console Details_Page](demo/xbox_details_page.jpg)
+![Xbox Console Details_Page](demo/xbox_details_page.jpg | width = 250)
 
 <h3>Playstation</h3>
 
-![Playstation Console Carousel](demo/playstation_carousel.jpg)
+![Playstation Console Carousel](demo/playstation_carousel.jpg | width = 250)
 
-![Playstation Console Details_Page](demo/playstation_details_page.jpg)
+![Playstation Console Details_Page](demo/playstation_details_page.jpg | width = 250)
