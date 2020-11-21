@@ -7,3 +7,4 @@ Here is the link -> https://dribbble.com/shots/14588621-Gaming-Console-Shop
 
 ![App Video Demo](demo/app_video.gif)
 
+
